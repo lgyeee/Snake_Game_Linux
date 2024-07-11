@@ -125,3 +125,4 @@ If you have any questions or suggestions, feel free to reach out to me at  [guan
 ---
 
 Enjoy playing the Snake Game!
+=======
